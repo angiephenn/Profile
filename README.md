@@ -1,2 +1,2 @@
-# Coding journey in progress: stumbling, debugging, and conquering one line at a time! 🚀
+# Who I am?
 SQL explorer, Python enthusiast, and curious problem-solver. Welcome to my digital playground! Here, you'll find an assortment of SQL and Python projects that reflect my love for trying new things, exploring data, and unleashing my creative coding skills. While I'm not a coding pro just yet, I have an insatiable appetite for learning and continuously strive to improve. Join me on this journey of growth, where we embrace the joy of learning and unravel the endless possibilities of technology😊!
